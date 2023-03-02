@@ -1,2 +1,2 @@
-# Prepcourse-HENRY
+# PrepCourse-HENRY
 Repositorio de prueba Henry Prep course - mod 2
